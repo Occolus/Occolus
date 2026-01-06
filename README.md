@@ -1,4 +1,4 @@
-# Hi, I'm <Nama Kamu> 👋
+# Hi, I'm Naufal 👋
 
 Data Scientist focused on turning data into measurable insights—covering end-to-end workflows from data preparation, modeling, evaluation, to simple deployment.
 
@@ -13,11 +13,11 @@ Data Scientist focused on turning data into measurable insights—covering end-t
 
 - **Sentiment Analysis (Bahasa Indonesia)**  
   End-to-end text preprocessing → modeling (TF-IDF / LSTM) → evaluation → (optional) Streamlit demo.  
-  Repo: <link repo> | Demo: <link demo>
+  Repo: [<link repo>](https://github.com/Occolus/SentimentAnalysisPrediction) 
 
 - **House Price Prediction (Regression + Deployment)**  
   Feature engineering → model training → RMSE/R² evaluation → Streamlit app.  
-  Repo: <link repo> | Demo: <link demo>
+  Repo: [<link repo>](https://github.com/Occolus/housepred) | Demo: <link demo>
 
 - **Association Rule Mining (ARM)**  
   Market-basket / pattern mining with support–confidence–lift + interpretation.  
